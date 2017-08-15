@@ -10,6 +10,7 @@ namespace GitTestProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Another test");
         }
     }
 }
