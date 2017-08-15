@@ -13,7 +13,10 @@ namespace GitTestProject
             Console.WriteLine("Test 123");
 
             Console.ReadLine();
-            Console.WriteLine("Another test");
+            Console.ReadLine();
+
+            Console.WriteLine("Let's test a PR");
+            Console.ReadLine();
         }
     }
 }
